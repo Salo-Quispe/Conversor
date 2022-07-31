@@ -3,11 +3,13 @@ Manual de usuario
 * El programa presenta la siguiente interfaz.
 ![image](https://user-images.githubusercontent.com/85651718/182043905-9644040a-851e-49b3-9ca8-e5d2b0a48bec.png)
 En la cual se permite realizar la conversión de divisas entre:
-    *- Dolar estadounidense
+    
+    - Dolar estadounidense
     - Euro
     - Won
     - Yen
-    - Yuan*
+    - Yuan
+
 * Para empezar con la conversión, se debe ingresar la cantidad que se desea cambiar.
 ![image](https://user-images.githubusercontent.com/85651718/182043939-e652e5d2-f7a5-445a-9daf-df3ae21eb9a1.png)
 * Seleccionamos el tipo de moneda ingresada.
